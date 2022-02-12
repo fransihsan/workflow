@@ -9,5 +9,6 @@ kerjakan fitur didalam sini {
     6. Done fitur login
     ===============================================
     2.1. Mulai mengerjakan homepage
+    2.2. Tambah fitur search
 
 }
