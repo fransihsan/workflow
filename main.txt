@@ -9,5 +9,6 @@ kerjakan fitur didalam sini {
     6. Done fitur login
     ===============================================
     3.1. Start fitur OTP
+    3.2. Buat tampilan yang menerima 4 input angka
 
 }
