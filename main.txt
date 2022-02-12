@@ -10,5 +10,6 @@ kerjakan fitur didalam sini {
     ===============================================
     3.1. Start fitur OTP
     3.2. Buat tampilan yang menerima 4 input angka
+    3.3. Buat 4 textbox untuk tiap input
 
 }
