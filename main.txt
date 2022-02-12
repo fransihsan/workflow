@@ -8,6 +8,5 @@ kerjakan fitur didalam sini {
     5. finishing fitur login
     6. Done fitur login
     ===============================================
-    -- aturan baru--
-    -bawa flashdisk
+    
 }
