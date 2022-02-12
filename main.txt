@@ -5,6 +5,7 @@ kerjakan fitur didalam sini {
     2. bukan validasi input
     3. konek ke database
     4. cocokkan data dengan data yang ada pada database
+    5. finishing fitur login
 
 
 
