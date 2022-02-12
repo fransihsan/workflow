@@ -2,7 +2,9 @@ ini adalah tulisan dari branch development
 kerjakan fitur didalam sini {
     jangan sampai keluar scope ya!
     1. mulai membuat login
-
+    2. bukan validasi input
+    3. konek ke database
+    4. cocokkan data dengan data yang ada pada database
 
 
 
