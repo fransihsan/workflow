@@ -16,5 +16,7 @@ kerjakan fitur didalam sini {
     3.2. Buat tampilan yang menerima 4 input angka
     3.3. Buat 4 textbox untuk tiap input
     3.4. Validasi & Done
-    --------------------------RILIS PUBLIC 1
+    ===============================================
+    Update Aturan 2
+    Wajib menyediakan snack saat ngoding
 }
