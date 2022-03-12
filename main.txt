@@ -4,5 +4,5 @@ kerjakan fitur didalam sini {
     again brow
     test
     sans brow, this is easy
-    karena mencoba experiment
+    view result
 }
