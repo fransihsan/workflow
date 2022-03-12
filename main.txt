@@ -3,6 +3,5 @@ kerjakan fitur didalam sini {
     again
     again brow
     test
-    next again brow
-    again
+    sans brow, this is easy
 }
